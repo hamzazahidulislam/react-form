@@ -1,0 +1,23 @@
+.Wrapper {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.Heading {
+    font-weight: 300;
+    font-size: 36px;
+    color: #222222;
+    text-align: center;
+    margin: 5px;
+}
+
+.Btn {
+    width: 200px;
+    padding: 10px;
+}
+
+.TextField {
+    width: 100%;
+    padding: 5px;
+    margin: 10px 0;
+}
