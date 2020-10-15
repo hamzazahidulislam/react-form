@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# Project Name: Wordify
+# Project Name: Basic React Form
 
 ## How To Setup On Windows
 
